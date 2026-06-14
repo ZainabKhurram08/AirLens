@@ -1,4 +1,4 @@
-AirLens — Pakistan Air Quality Analysis Dashboard
+AirLens: Pakistan Air Quality Analysis Dashboard
 A multi-page interactive web dashboard that applies statistical and probabilistic analysis on real hourly air quality data collected from Pakistani cities.
 
 🔍 Overview
